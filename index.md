@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## ThopTV Pro APK Download Latest Version for Android
 
-You can use the [editor on GitHub](https://github.com/ahmadgzr/androidapk/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### What is ThopTV Pro?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Thop TV APK is basically an IPTV Android application that provides Live TV, Movies, Dramas, News, TV Shows, Comedy Shows, Cartoons, and much more for free to their users.
 
-### Markdown
+[ThopTV Pro Image](https://apkpot.com/wp-content/uploads/2021/09/thoptv-pro-image-1-135x300.jpeg)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### ThopTV Pro APK for Android
 
-```markdown
-Syntax highlighted code block
+Thop TV APK is the installer file for Android. The APK file will install the Thop TV application on your Android device. You can download the latest APK file of this application for free from this page.
 
-# Header 1
-## Header 2
-### Header 3
+### Is ThopTV Pro APP Legal?
 
-- Bulleted
-- List
+This question comes to everyone’s mind when they hear about Thop TV. The answer os this question is yes. Thoptv streams some channels that violate the copyrights of the providers. This doesn’t mean that it is an illegal app. It streams a lot of free channels too so it is controversial to say that the app is illegal or legal.
 
-1. Numbered
-2. List
+### Version v45.7.0 Download
 
-**Bold** and _Italic_ and `Code` text
+Version 45.4.0 is the most recent version of Thop TV APK and it can be freely downloaded from the download button at the top. Download the app and enjoy free live tv now.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ahmadgzr/androidapk/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Download Thop TV Pro APK](https://apkpot.com/apps/thoptv-apk-pro/)
